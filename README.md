@@ -6,3 +6,5 @@ Why did you build this project? (Note: the answer is not "Because it was a homew
 What problem does it solve?
 What did you learn?
 What makes your project stand out?
+
+https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git
