@@ -7,6 +7,12 @@ What problem does it solve?
 What did you learn?
 What makes your project stand out?
 
+//////////////////////////////////
+How do I push a cloned repo to my repository?
+The idea is to delete the . git/ and re-initialize.
+go to your cloned repo folder rm -rf .git.
+re-initialize it and then add your remote and do your first push. git init git add . git commit -m "your commit message" git remote add origin git push origin master.
+
 https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git
 \\\\\\\\\\\\\\\\\\\\\\\\\\
 # <Your-Project-Title>
